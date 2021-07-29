@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
 
@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtheninja&label=Profile%20views&color=0e75b6&style=flat" alt="harshtheninja" /> </p>
 
-- 🔭 I’m currently working & looking to collaborate on **Web Development**
+- 🔭 I’m currently working on my portfolio
+
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻You can also check out my portfolio at [https://harshtheninja.github.io/my-website/](https://harshtheninja.github.io/my-website/)
 
 - 📫 How to reach me **kumar_harsh@outlook.in**
+
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact **I think I am funny.**
 
