@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻You can also check out my portfolio at [https://harshtheninja.github.io/my-website/](https://harshtheninja.github.io/my-website/)
+- 👨‍💻You can also check out my portfolio at [https://harshtheninja.github.io/](https://harshtheninja.github.io/)
 
 - 📫 How to reach me **kumar_harsh@outlook.in**
 
