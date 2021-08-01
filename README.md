@@ -22,15 +22,11 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my portfolio
-
 - 👯 I’m looking to collaborate on **Web Development**
-
-- 👨‍💻You can also check out my portfolio at [https://harshtheninja.github.io/](https://harshtheninja.github.io/)
-
+- 🤔 I’m looking for help with Data Structures & Algorithms
 - 📫 How to reach me **kumar_harsh@outlook.in**
-
+- 👨‍💻You can also check out my portfolio at [https://harshtheninja.github.io/](https://harshtheninja.github.io/)
 - 😄 Pronouns: He/Him
-
 - ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
