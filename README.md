@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Computer and Electronics Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtheninja&label=Profile%20views&color=0e75b6&style=flat" alt="harshtheninja" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2k2&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2k2" /> </p>
 
 - 🔭 I’m currently working on my portfolio
 - 👯 I’m looking to collaborate on **Web Development**
