@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A Computer and Electronics Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
