@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portfolio
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with Data Structures & Algorithms
-- 📫 How to reach me **kumar_harsh@outlook.in**
+- 📫 How to reach me **harsh622k@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact **I think I am funny.**
 <!-- - 👨‍💻You can also check out my portfolio at [https://harsh2k2.github.io](https://harsh2k2.github.io) -->
