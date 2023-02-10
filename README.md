@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for help with Data Structures & Algorithms
 - 📫 How to reach me **kumar_harsh@outlook.in**
-<!-- - 👨‍💻You can also check out my portfolio at [https://harsh2k2.github.io](https://harsh2k2.github.io) -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact **I think I am funny.**
-
+<!-- - 👨‍💻You can also check out my portfolio at [https://harsh2k2.github.io](https://harsh2k2.github.io) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkumar11" height="30" width="40" /></a>
