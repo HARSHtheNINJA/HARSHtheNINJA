@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2k2&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2k2" /> </p>
 
 - 🔭 I’m currently looking for SDE-1 roles <!-- I’m currently working on my portfolio -->
+  
 - ✨ I'm Passionate about Building High-Quality Software & Web Applications that Solve Real-World Problems <!-- I’m looking to collaborate on **Web Development** -->
 - 👨‍💻 I'm fluent in C++ with a strong grip on HTML, CSS, and JavaScript for building robust and user-friendly applications <!-- I’m looking for help with Data Structures & Algorithms -->
 - 📫 Reach me at **harsh622k@gmail.com** 
