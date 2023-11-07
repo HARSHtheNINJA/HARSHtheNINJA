@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for SDE-1 roles <!-- I’m currently working on my portfolio -->
   
 - ✨ I'm Passionate about Developing High-Quality Software & Web Applications that address Real-World challenges <!-- I’m looking to collaborate on **Web Development** -->
-- 👨‍💻 I'm proficient in C++ with hands on experience in HTML, CSS, and JavaScript for creating reliable and user-friendly applications <!-- I’m looking for help with Data Structures & Algorithms -->
+- 👨‍💻 I'm proficient in **C++** with hands on experience in **HTML, CSS,** and **JavaScript** for creating reliable and user-friendly applications <!-- I’m looking for help with Data Structures & Algorithms -->
 - 📫 Reach me at **harsh622k@gmail.com** 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact **I think I am funny.**
